@@ -1,1 +1,1 @@
-Trying to plot and simulate deferent equations and systems in physics
+Trying to plot and simulate different equations and systems in physics
